@@ -1,0 +1,6 @@
+{
+  "name": "Klares Atelier — Supervision",
+  "description": "Atelier für Systemische & Theatrale Prozessbegleitung in Berlin. Erfahrungsbasierte Supervision für Teams, Gruppen und Einzelne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
